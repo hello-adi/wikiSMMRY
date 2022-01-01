@@ -37,7 +37,8 @@ wikiSMMRY is a CLI tool that can be utilised two ways.
 ## Credits
 A lot of this README was inspired from the one designed by dsynkov for their API wrapper https://github.com/dsynkov/smmryAPI.
 
-
+## Future scope 
+Currently, wikiSMMRY simply summarizes the article in 7 line. That is the default number for the API request. However, a feature that could be added in the future is the user determining how many lines they want the summary to contain. This can dictate how the information is summarized based on the user's needs. 
 
 
 
